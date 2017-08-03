@@ -1,2 +1,2 @@
 # ReactLibrary
-Create a library to using ReactJS + Webpack + Babel
+Create a library using ReactJS + Webpack + Babel
